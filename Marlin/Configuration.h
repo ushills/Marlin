@@ -1051,7 +1051,7 @@
   #define LEFT_PROBE_BED_POSITION 23
   #define RIGHT_PROBE_BED_POSITION 185
   #define FRONT_PROBE_BED_POSITION 10
-  #define BACK_PROBE_BED_POSITION 150
+  #define BACK_PROBE_BED_POSITION 145
 
   // Probe along the Y axis, advancing X after each column
   //#define PROBE_Y_FIRST

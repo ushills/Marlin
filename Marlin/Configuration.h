@@ -620,7 +620,7 @@
 // from Geeetech firmware
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,400,93}  // MXL, Z M8=1.25, MK8
 // Personal settings
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {80.82,80.82,400,93}  // MXL, Z M8=1.25, MK8
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {80.82,80.82,400,89.3}  // MXL, Z M8=1.25, MK8
 
 /**
  * Default Max Feed Rate (mm/s)

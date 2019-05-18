@@ -118,6 +118,9 @@
  */
 #define BAUDRATE 115200
 
+// Disable SD_DETECT_PIN to enable refresh menu when using Toshiba Flash Air card
+#define SD_DETECT_PIN  -1
+
 // Enable the Bluetooth serial interface on AT90USB devices
 //#define BLUETOOTH
 
